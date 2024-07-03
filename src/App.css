@@ -44,3 +44,11 @@
     transform: rotate(360deg);
   }
 }
+
+.sheet {
+  display: flex;
+  justify-content: center;
+  gap: 32px;;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
